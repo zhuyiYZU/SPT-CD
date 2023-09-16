@@ -1,0 +1,3 @@
+ {"soft"} {"mask"}: {"placeholder": "text_a"}{"placeholder": "text_b"}
+ {"placeholder": "text_a"}{"placeholder": "text_b"} {"soft"} {"mask"} .
+
