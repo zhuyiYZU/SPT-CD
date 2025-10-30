@@ -78,10 +78,7 @@ git clone https://github.com/thunlp/OpenPrompt.git
 cd OpenPrompt
 pip install -e .
 ```
-After setting up OpenPrompt, install the required Python packages listed in requirements.txt:
-```bash
-pip install -r requirements.txt
-```
+
 ### 2. Add Custom Components
 After installing OpenPrompt, you need to copy the following custom files from the project into the corresponding directories of OpenPrompt:
 
