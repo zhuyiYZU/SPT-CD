@@ -1,0 +1,2 @@
+这是一个 {"mask"} 的新闻: {"placeholder": "text_a"} {"placeholder": "text_b"}
+这是一条{"mask"}的新闻，涉及标题和内容：{"placeholder": "text_a"} {"placeholder": "text_b"}
